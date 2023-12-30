@@ -1,36 +1,22 @@
- Desenvolvedor Júnior Front-end com React.js
-Sobre Mim
-Olá! 👋 Eu sou Gabriel Evangelista, um desenvolvedor júnior focado em front-end, especializado em React.js. Estou animado para compartilhar meu progresso e projetos incríveis neste repositório. Seja bem-vindo à minha jornada de aprendizado e desenvolvimento!
+## Olá! Eu sou o Gabriel Evangelista 🤓
 
-🚀 Habilidades
-Linguagens de Marcação e Estilização:
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel_evanger/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-evangelista-241545239/)
 
-HTML5
-CSS3 (incluindo preprocessadores como Sass ou Less)
-Linguagens de Programação:
+![gabrielevanger's Stats](https://github-readme-stats.vercel.app/api?username=gabrielevanger&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielevanger&theme=tokyonight&show_icons=true)](https://github.com/gabrielevanger/github-readme-stats)
 
-JavaScript (ES6+)
-Bibliotecas e Frameworks Front-end:
 
-React.js
-Controle de Versão:
 
-Git
-Design Responsivo:
+## Tecnologias do meu dia-a-dia!
 
-Desenvolvimento de layouts que se adaptam a diferentes dispositivos.
 
-🎯 Objetivos Atuais
-Aprofundar meu conhecimento em React.js, explorando seus conceitos avançados e boas práticas.
-Integrar APIs externas em projetos React.js para criar aplicativos mais dinâmicos.
-Explorar o desenvolvimento de aplicações usando state management (por exemplo, Redux) com React.js.
-Participar ativamente da comunidade React para compartilhar experiências e aprender com outros desenvolvedores.
-📬 Contato
-Estou aberto a oportunidades de colaboração e discussões sobre desenvolvimento front-end, especialmente em React.js. Fique à vontade para entrar em contato:
-
-Email: Gabriel.evanger@gmail.com
-
-🙌 Agradecimentos
-Agradeço à comunidade de desenvolvedores e mentores que têm sido fundamentais no meu crescimento. Estou animado para continuar aprendendo e construindo coisas incríveis com React.js!
-
-Vamos criar interfaces cativantes juntos! 🌟
+<div style="display: inline_block"></br>
+    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>    
+    <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+    <img align="center" alt="NODEJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img align="center" alt="REACTNATIVE" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img align="center" alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img align="center" alt="TYPESCRIPT" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+</div>
