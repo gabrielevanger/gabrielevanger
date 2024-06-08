@@ -28,9 +28,6 @@ Olá, sou o Gabriel Evangelista, um entusiasta da tecnologia apaixonado por cria
 
 ### Projetos Destacados 🚀
 
-1. [**Projeto 1**](https://github.com/gabrielevanger/Bikcraft-Store): A Bikcraft Store é uma loja virtual projetada para oferecer uma experiência envolvente aos usuários, destacando a beleza e a qualidade das bicicletas artesanais. Desde a navegação até a finalização da compra, o site foi criado para cativar e informar os potenciais clientes sobre os produtos exclusivos disponíveis.
-2. [**Projeto 2**](https://github.com/gabrielevanger/dsmcounter): A aplicação oferece uma interface minimalista e fácil de usar, permitindo que os usuários incrementem ou redefinam o contador com apenas um clique. O conceito é adequado para gamers que desejam acompanhar e exibir publicamente o tempo desde sua última eliminação ou derrota no jogo.
-
 ### Objetivos Atuais 🎯
 
 - 🚀 Aprofundar meu conhecimento em React.js, explorando conceitos avançados e boas práticas.
