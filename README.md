@@ -1,14 +1,4 @@
-- 👋 Hi, I’m @gabrielevanger
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-gabrielevanger/gabrielevanger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.atualizado
+atualizado
 🌟 Bem-vindo ao Meu Repositório GitHub 🌟
 <h1 align="center">Olá! Sou um desenvolvedor focado em criar soluções tecnológicas eficientes e inovadoras. Aqui você encontrará informações sobre as principais tecnologias que utilizo e como você pode colaborar com meus projetos.</h1>
 
@@ -78,5 +68,3 @@ You can click the Preview link to take a look at your changes.atualizado
 </div>
 </div>
 
-
---->
