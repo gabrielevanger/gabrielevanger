@@ -49,7 +49,7 @@ atualizado
   </a>
 </div>
 
-<h2>🍕 Projeto Principal: Pizza-Shop-web </h2>
+<h2>🍕 Projeto Principal: Pizza-Shop-web/android </h2>
  O Pizza-Shop é um projeto inovador que permite aos usuários personalizar e pedir pizzas de maneira fácil e rápida. Utilizando as melhores práticas de desenvolvimento e tecnologias de ponta, este projeto é um exemplo perfeito do que é possível realizar com dedicação e criatividade.
 <div align="center">
   <a href="https://github.com/gabrielevanger/pizza-shop-web" target="_blank">
