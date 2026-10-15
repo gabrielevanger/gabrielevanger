@@ -18,23 +18,16 @@ Boa Vista - RR, Brasil
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
 </p>
 
-## Experiência
+## O que eu faço
 
-### Desenvolvedor Android · Petz
+### Mobile
 
-No app da Petz, implementei funcionalidades que ainda não existiam:
+- Funcionalidades de ponta a ponta em apps de e-commerce em produção: acompanhamento de pedidos com linha do tempo de status, fluxos de retirada em loja e cancelamento parcial de itens.
+- Status em tempo real na tela de bloqueio, com Live Updates no Android.
 
-- **Novo acompanhamento de pedidos:** tela "Meus pedidos" redesenhada, com linha do tempo de status, fluxos de Retire na Loja (prazo curto e longo), código de retirada e acesso à nota fiscal.
-- **Cancelamento parcial:** o cliente cancela itens específicos do pedido sem precisar cancelar a compra inteira.
-- **Pedido em tempo real na tela de bloqueio** *(em desenvolvimento)*: Live Updates no Android e Live Activities no iOS, com o status da entrega ou retirada atualizando ao vivo, sem precisar abrir o app.
+### Full stack
 
-### Estagiário de Desenvolvimento · TRE-RR
-
-Criei o **Sistema de Gestão de Autoridades** do TRE-RR de ponta a ponta:
-
-- **Design:** protótipo e fluxos das telas no Figma.
-- **Backend:** API REST em Kotlin + Spring Boot com PostgreSQL, autenticação JWT e controle de acesso por perfis e permissões.
-- **Front-end:** aplicação em Angular integrada à API.
+- Sistemas web construídos do zero: protótipo no Figma, API REST em Kotlin + Spring Boot com PostgreSQL, autenticação JWT, controle de acesso por perfis e front-end em Angular.
 
 ## Projeto pessoal
 
