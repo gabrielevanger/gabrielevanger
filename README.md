@@ -29,18 +29,6 @@ Boa Vista - RR, Brasil
 
 - Sistemas web construídos do zero: protótipo no Figma, API REST em Kotlin + Spring Boot com PostgreSQL, autenticação JWT, controle de acesso por perfis e front-end em Angular.
 
-## Projeto pessoal
-
-### [KDS Brasa do Jorge](https://github.com/gabrielevanger/kds-brasa-do-jorge)
-
-Kitchen Display System para uma hamburgueria, feito para o desafio técnico da Pigz. Os pedidos chegam em tempo real (SSE) e um único APK assume o papel de cada aparelho: **board no tablet** da cozinha, **expedição no celular** do garçom e **painel na TV** para todos.
-
-Kotlin · Jetpack Compose · Hilt · JUnit 6 · Robolectric · Turbine
-
-<a href="https://github.com/gabrielevanger/kds-brasa-do-jorge">
-  <img src="https://raw.githubusercontent.com/gabrielevanger/kds-brasa-do-jorge/main/docs/media/board-claro.png" width="600" alt="Board do KDS no tablet, com as colunas Na fila, Preparando e Pronto" />
-</a>
-
 ## Contato
 
 <a href="https://www.linkedin.com/in/gabriel-de-oliveira-evangelista/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
